@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 
 import type { FormStepProps } from "../components/features/Simulation/FormStep";
+import type { InsightData } from "../service/aiService";
 
 export const simulationFormSteps = [
   {
